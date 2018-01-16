@@ -19,7 +19,7 @@ Below is a summary schedule for instructors and topics of the Winter Camp.
 | Date | Day       | Instructor      | Topics                                     |
 | ---- | --------- | --------------- | ------------------------------------------ |
 | 1-23 | Tuesday   | Natasha Watkins | Introduction to Python and GitHub          |
-| 1-24 | Wednesday | Xianfeng Li     | Python basics: NumPy, MatPlotlib           |
+| 1-24 | Wednesday | Xianfeng Li     | Python basics: NumPy, Matplotlib           |
 | 1-25 | Thursday  | Xianfeng Li     | Python basics: SymPy and SciPy             |
 | 1-27 | Saturday  | Jake Zhao       | Python basics: OOP and dynamic programming |
 | 1-28 | Sunday    | Natasha Watkins | Python basics: Pandas                      |
