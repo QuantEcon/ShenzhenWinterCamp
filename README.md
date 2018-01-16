@@ -16,20 +16,20 @@ Below is a summary schedule for instructors and topics of the Winter Camp.
 
 **Week 1**
 
-| Date | Day | Instructor      | Topics                                     |
-|------|-----|-----------------|--------------------------------------------|
-| 1-23 | T   | Natasha Watkins | Introduction to Python and GitHub          |
-| 1-24 | W   | Xianfeng Li     | Python basics: NumPy, MatPlotlib           |
-| 1-25 | R   | Xianfeng Li     | Python basics: SymPy and SciPy             |
-| 1-27 | Sat | Jake Zhao       | Python basics: OOP and dynamic programming |
-| 1-28 | Sun | Natasha Watkins | Python basics: Pandas                      |
+| Date | Day       | Instructor      | Topics                                     |
+| ---- | --------- | --------------- | ------------------------------------------ |
+| 1-23 | Tuesday   | Natasha Watkins | Introduction to Python and GitHub          |
+| 1-24 | Wednesday | Xianfeng Li     | Python basics: NumPy, MatPlotlib           |
+| 1-25 | Thursday  | Xianfeng Li     | Python basics: SymPy and SciPy             |
+| 1-27 | Saturday  | Jake Zhao       | Python basics: OOP and dynamic programming |
+| 1-28 | Sunday    | Natasha Watkins | Python basics: Pandas                      |
 
 **Week 2**
 
-| Date | Day | Instructor      | Topics                                          |
-|------|-----|-----------------|-------------------------------------------------|
-| 1-29 | M   | John Stachurski | Dynamic stochastic models                       |
-| 1-30 | T   | John Stachurski | Asset pricing                                   |
-| 1-31 | W   | John Stachurski | Asset pricing                                   |
-| 2-1  | T   | Shenghao Zhu    | Inequality in macroeconomics                    |
-| 2-2  | F   | Jiao Shi        | Exchange rate models and exchange rate forecast |
+| Date | Day       | Instructor      | Topics                                          |
+| ---- | --------- | --------------- | ----------------------------------------------- |
+| 1-29 | Monday    | John Stachurski | Dynamic stochastic models                       |
+| 1-30 | Tuesday   | John Stachurski | Asset pricing                                   |
+| 1-31 | Wednesday | John Stachurski | Asset pricing                                   |
+| 2-1  | Thursday  | Shenghao Zhu    | Inequality in macroeconomics                    |
+| 2-2  | Friday    | Jiao Shi        | Exchange rate models and exchange rate forecast |
