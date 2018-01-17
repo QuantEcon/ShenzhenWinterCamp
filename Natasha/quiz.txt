@@ -24,4 +24,4 @@ e) What is the maximum file size allowed to be uploaded to GitHub?
 
 f) A repository is also known as a ‘repo’. True or False.
 
-g) How do I download a repository to my computer?
+g) Which command is used to download a repository to the local drive?
