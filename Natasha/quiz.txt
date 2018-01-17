@@ -1,4 +1,4 @@
-This file tests your knowledge of git/GitHub and also demonstrates how to edit a file with git!
+﻿This file tests your knowledge of Git/GitHub and also demonstrates how to edit a file with Git!
 
 1. Complete the quiz below (you can use the internet to find answers)
 
@@ -7,12 +7,12 @@ This file tests your knowledge of git/GitHub and also demonstrates how to edit a
 Name
 =====
 
-**Your name here**
+Natasha Watkins
 
 Questions
 =========
 
-a) Who is the author of git?
+a) Who is the author of Git?
 
 b) Who is the founder of GitHub?
 
