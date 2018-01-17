@@ -4,11 +4,6 @@
 
 2. Save the file as quiz-YOURNAME.txt
 
-Name
-=====
-
-Natasha Watkins
-
 Questions
 =========
 
