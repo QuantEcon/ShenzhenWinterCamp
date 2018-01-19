@@ -1,6 +1,6 @@
 # Winter Camp of Quantitative Economics, Shenzhen 2018
 
-The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition to pursue a Ph.D. in Economics or related fields. 
+The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have an ambition to pursue a Ph.D. in Economics or related fields. 
 
 ## 1. Supporting Organizations
 
@@ -27,7 +27,7 @@ To provide in-depth Chinese educational experiences with a global perspective, P
 
 ### [**QuantEcon**](https://quantecon.org/)
 
-QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
+QuantEcon is a NumFOCUS fiscally sponsored project dedicated to the development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
 
 
 
@@ -47,36 +47,36 @@ Below is a summary schedule of the classes and major events of the Winter Camp.
 
 ### Week 1
 
-| Day        | Time          | Event                               | Instructor      | Venue               |
-| ---------- | ------------- | ----------------------------------- | --------------- | ------------------- |
-| January 22 | 09:00-15:00   | Registration                        |                 | PHBS Lobby          |
-|            | 15:40         | Depart to PHBS building             |                 | AIILIFE Hotel Lobby |
-| January 23 | 09:00-10:00   | Opening Ceremony                    |                 | PHBS RM509          |
-|            | 10:00-12:00   | Python basics: Introduction         | Natasha Watkins | PHBS RM513          |
-|            | 14:00-15:00   | Mini Lecture on Python              | Thomas Sargent  | PHBS RM513          |
-| January 24 | 09:00-12:00   | Python basics: Numpy and Matplotlib | Xianfeng Li     | PHBS RM513          |
-| January 25 | 09:00-12:00   | Python basics: SymPy and SciPy      | Xianfeng Li     | PHBS RM513          |
-|            | 14:00-15:30   | Guest lecture                       | Jun Nie         | PHBS RM513          |
-| January 26 | 09:00-12:00   | Company Visit                       |                 | PingAn Technology   |
-|            | 13:00 - 16:30 | Museum Tour                         |                 | Shenzhen Museum     |
-| January 27 | 09:00-12:00   | Dynamic programming and OOP         | Jake Zhao       | PHBS RM513          |
-| January 28 | 09:00-12:00   | Pandas                              | Natasha Watkins | PHBS RM513          |
+|     Day       | Time | Event     | Instructor      | Venue                                     |
+| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
+| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+|               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
+| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+|               |  10:00-12:00  |  Python basics: Introduction       | Natasha Watkins  |  PHBS RM513  |
+|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM513  |
+|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM513  |
+|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM513  |
+|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM513  |
+|  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
+|               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
+|  January 27   | 09:00-12:00  | Dynamic programming and OOP   | Jake Zhao  |  PHBS RM513  |
+|  January 28   | 09:00-12:00  | Pandas   | Natasha Watkins   |  PHBS RM513  |
 
 
 ### Week 2
 
-| Day        | Time        | Event                                | Instructor      | Venue               |
-| ---------- | ----------- | ------------------------------------ | --------------- | ------------------- |
-| January 29 | 09:00-12:00 | Economics: Dynamic stochastic models | John Stachurski | PHBS RM513          |
-|            | 14:00-15:30 | A dialogue with Thomas Sargent       | Thomas Sargent  | PHBS RM509          |
-| January 30 | 09:00-12:00 | Economics: Asset pricing             | John Stachurski | PHBS RM513          |
-|            | 14:00-15:30 | Guest lecture                        | Pengfei Wang    | PHBS RM513          |
-| January 31 | 09:00-12:00 | Economics: Asset pricing             | John Stachurski | PHBS RM513          |
-| February 1 | 09:00-12:00 | Economics: Inequality                | Shenghao Zhu    | PHBS RM513          |
-| February 2 | 09:00-12:00 | Economics: Exchange rate forecast    | Jiao Shi        | PHBS RM513          |
-|            | 14:00-15:30 | Guest lecture                        | Tao Zha         | PHBS RM513          |
-|            | 17:00-18:00 | Closing ceremony                     |                 | PHBS RM509          |
-| February 3 | 09:00-12:00 | Hotel Check-out                      |                 | AIILIFE Hotel Lobby |
+|     Day       | Time | Event     | Instructor      | Venue                                     |
+| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
+|  January 29   | 09:00-12:00  | Economics: Dynamic stochastic models  | John Stachurski  |  PHBS RM513  |
+|               |  14:00-15:30  | A dialogue with Thomas Sargent      | Thomas Sargent  |  PHBS RM509  |
+| January 30    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
+|               |  14:00-15:30  |  Guest lecture   | Pengfei Wang  |  PHBS RM513  |
+| January 31    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
+|  February 1   | 09:00-12:00  | Economics: Inequality        | Shenghao Zhu   |  PHBS RM513  |
+|  February 2    | 09:00-12:00  | Economics: Exchange rate forecast    |  Jiao Shi  | PHBS RM513  |    
+|               | 14:00-15:30  | Guest lecture      | Tao Zha |  PHBS RM513 |
+|               | 17:00-18:00  | Closing ceremony   |  |  PHBS RM509 |
+|  February 3   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
 
 ## 3. Instructors and Speakers
@@ -102,8 +102,7 @@ Professor at Research School of Economics
 Australia National University
 
 **Pengfei Wang**
-Associate Professor                        
-School of Business and Management                                     
+Professor at Department of Economics                                     
 The Hong Kong University of Science and Technology
 
 **Natasha Watkins**                               
@@ -120,3 +119,32 @@ Peking University HSBC Business School
 **Shenghao Zhu**                                   
 Associate Professor                          
 School of Economics and Management, Beihang University
+
+## 5. Ph.D. Program in Quantitative Economics
+
+Starting from Fall 2018, PHBS will establish a state-of-the-art PhD program in quantitative economics focusing on foundations of economics and modern mathematical, statistical, and computer tools for putting those tools to work to analyze economic problems. The program is designed and organized by Professor Thomas Sargent.
+
+Audience: As students, we seek either (a) highly motivated students having undergraduate degrees that provide them with a solid foundation in undergraduate mathematics, probability, and statistics; or (b) recent graduates of good MA programs in economics and finance; or (c) in exceptional cases, smart undergraduates with weaker backgrounds in mathematics and statistics who are willing to do extra remedial work before starting the main courses for the PhD program.
+
+Philosophy: We shall teach mathematical and conceptual foundations of modern economics theory as well econometrics and statistics. Courses will begin by emphasizing tools because that is the most efficient way to create a powerful language for precisely formulating and criticizing economic ideas. After students acquire tools, important applications illustrating the power of economic theories and econometric methods will be presented. A typical first year PhD class will begin with virtually 100% tools, then over the course of the academic year gradually approach 50% tools and 50% applications.
+For more information, please check out our [PhD admission information](http://www.phbs.pku.edu.cn/2017/postgraduate_0905/4445.html).
+
+## 4. Some useful references
+For programming and economics theory, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
+
+Books of programming recommended
+* Allen B. Downey, *Think Python*, O'Reilly Media, Inc.(2012)
+* Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013)
+* McKinney, Wes, *Python for Data Analysis*, O'Reilly Media, Inc. (2013)
+
+Books recommended for Economics
+* Lars Ljungqvist, Thomas J. Sargent, *Recursive Macroeconomic Theory*, Third edition, MIT Press(2012)
+* David M. Kreps, *Microeconomic Foundations I Choice and Competitive Markets*, PRINCETON UNIVERSITY PRESS(2013) 
+* Andreu Mas-Colell, Michael D. Whinston, and Jerry R. Green, *Microeconomic Theory*, Oxford University Press(1995)
+
+Books for Mathematics and Statistics
+* Carl P Simon, Lawrence Blume, *MATHEMATICS FOR ECONOMISTS*, W. W. Norton & Company, Inc.(1994)
+* Larry Wasserman, *All of Statistics A Concise Course in Statistical Inference*, Springer(2010)
+* George Casella, Roger L. Berger, *Statistical Inference*, Second edition, Duxbury(2002)
+
+
