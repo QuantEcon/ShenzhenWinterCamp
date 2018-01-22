@@ -47,20 +47,24 @@ Below is a summary schedule of the classes and major events of the Winter Camp.
 
 ### Week 1
 
+**Note:** Week 1 lectures follow closely the [Python lectures](https://lectures.quantecon.org/py/index.html) on QuantEcon. Please read the corresponding chapters for a preview before coming to class.
+
+
+
 | Day        | Time          | Event                               | Instructor      | Venue               |
 | ---------- | ------------- | ----------------------------------- | --------------- | ------------------- |
 | January 22 | 09:00-15:00   | Registration                        |                 | PHBS Lobby          |
 |            | 15:40         | Depart to PHBS building             |                 | AIILIFE Hotel Lobby |
 | January 23 | 09:00-10:00   | Opening Ceremony                    |                 | PHBS RM509          |
-|            | 10:00-12:00   | Python basics: Introduction         | Natasha Watkins | PHBS RM513          |
+|            | 10:00-12:00   | Basics: Introduction to Python and GitHub  | Natasha Watkins | PHBS RM513          |
 |            | 14:00-15:00   | Mini Lecture on Python              | Thomas Sargent  | PHBS RM513          |
-| January 24 | 09:00-12:00   | Python basics: Numpy and Matplotlib | Xianfeng Li     | PHBS RM513          |
+| January 24 | 09:00-12:00   | Basics: Essentials, Numpy and Matplotlib | Xianfeng Li     | PHBS RM513          |
 | January 25 | 09:00-12:00   | Python basics: SymPy and SciPy      | Xianfeng Li     | PHBS RM513          |
 |            | 14:00-15:30   | Guest lecture                       | Jun Nie         | PHBS RM513          |
 | January 26 | 09:00-12:00   | Company Visit                       |                 | PingAn Technology   |
 |            | 13:00 - 16:30 | Museum Tour                         |                 | Shenzhen Museum     |
 | January 27 | 09:00-12:00   | Dynamic programming and OOP         | Jake Zhao       | PHBS RM513          |
-| January 28 | 09:00-12:00   | Pandas                              | Natasha Watkins | PHBS RM513          |
+| January 28 | 09:00-12:00   | Pandas and linear regression        | Natasha Watkins | PHBS RM513          |
 
 
 ### Week 2
