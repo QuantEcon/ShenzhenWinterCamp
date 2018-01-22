@@ -1,4 +1,4 @@
-﻿This file tests your knowledge of Git/GitHub and also demonstrates how to edit a file with Git!
+This file tests your knowledge of Git/GitHub and also demonstrates how to edit a file with Git!
 
 1. Complete the quiz below (you can use the internet to find answers)
 
@@ -9,13 +9,7 @@ Questions
 
 a) Who is the author of Git?
 
-b) Who is the founder of GitHub?
-
 c) Git requires internet access to use. True or False.
-
-d) In October 2017, how many GitHub users were there in total?
-
-e) What is the maximum file size allowed to be uploaded to GitHub?
 
 f) A repository is also known as a ‘repo’. True or False.
 
