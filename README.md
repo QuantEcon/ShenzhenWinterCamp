@@ -72,7 +72,7 @@ Below is a summary schedule of the classes and major events of the Winter Camp.
 | Day        | Time        | Event                                | Instructor      | Venue               |
 | ---------- | ----------- | ------------------------------------ | --------------- | ------------------- |
 | January 29 | 09:00-12:00 | Economics: Dynamic stochastic models | John Stachurski | PHBS RM513          |
-|            | 14:00-15:30 | A dialogue with Thomas Sargent       | Thomas Sargent  | PHBS RM509          |
+|            | 16:00-17:30 | A dialogue with Thomas Sargent       | Thomas Sargent  | PHBS RM509          |
 | January 30 | 09:00-12:00 | Economics: Asset pricing             | John Stachurski | PHBS RM513          |
 |            | 14:00-15:30 | Guest lecture                        | Pengfei Wang    | PHBS RM513          |
 | January 31 | 09:00-12:00 | Economics: Asset pricing             | John Stachurski | PHBS RM513          |
